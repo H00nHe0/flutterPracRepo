@@ -1,2 +1,2 @@
-Hello Github
-All thing are difficult before they are easy!
+Hello Github!!
+All things are difficult before they are easy!
